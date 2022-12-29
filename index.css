@@ -6,24 +6,6 @@ body {
   margin: 0px;
 }
 
-.bg-container {
-  display: flex;
-  flex-direction: column;
-  background-image: url("https://assets.ccbp.in/frontend/react-js/congrats-card-bg.png");
-}
-.heading {
-  font-size: 35px;
-  color: #0f172a;
-  font-family: "Roboto";
-}
-.profile-container {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  background-color: #0f172a;
-}
-
 .congrats-card-container {
   display: flex;
   flex-direction: column;
